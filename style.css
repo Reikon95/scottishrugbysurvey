@@ -1,0 +1,28 @@
+h1{
+ text-align: center;
+ font-family: 'Fjalla One', sans-serif;
+}
+p{
+  text-align: center;
+}
+
+#rest{
+  background-color:blue;
+  color: white;
+  font-family: 'Fjalla One', sans-serif
+}
+#main{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+#box{
+  
+  width: 200px;
+  height: 75px;
+}
+
+#img-div{
+  text-align: center;
+  size: 10%;
+}
