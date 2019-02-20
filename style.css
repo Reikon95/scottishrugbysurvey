@@ -26,4 +26,13 @@ p {
   text-align: center;
   size: 10%;
   overflow: scroll;
+  
+}
+
+
+@media screen and (max-width: 480px){
+ img{
+  max-width: 240px;
+ }
+ 
 }
